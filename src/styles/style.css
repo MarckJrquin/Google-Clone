@@ -49,6 +49,10 @@
     font-size: 13px;
 }
 
+.header .header__nav .nav__links li a{
+    color: var(--text-dark);
+}
+
 .header .header__nav .nav__links li a:visited {
     color: var(--text-dark);
 }
